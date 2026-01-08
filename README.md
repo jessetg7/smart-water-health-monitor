@@ -151,27 +151,27 @@ cd python
 python run_prediction.py
 ```
 
-Example output:
-Prediction: SAFE
-Prediction: MODERATE RISK
-Prediction: HIGH RISK
+## Example output:
+- Prediction: SAFE
+- Prediction: MODERATE RISK
+- Prediction: HIGH RISK
 
-Data Flow (Simple)
-ESP32 → Web Dashboard
-ESP32 → Python ML Script
-ML → Water Safety Prediction
+## Data Flow (Simple)
+- ESP32 → Web Dashboard
+- ESP32 → Python ML Script
+- ML → Water Safety Prediction
 
 
 All data comes from one source (ESP32).
 
-Notes:
+## Notes:
 
-This is a prototype, focused on system workflow and analytics
-Uses a calibrated simulation layer, common in early pilots
-Designed for offline rural deployment
+- This is a prototype, focused on system workflow and analytics
+- Uses a calibrated simulation layer, common in early pilots
+- Designed for offline rural deployment
 
-Tip for Demo:
+## Tip for Demo:
 
-Keep public.html visible
-Do not open admin panel unless required
-Let values update naturally
+- Keep public.html visible
+- Do not open admin panel unless required
+- Let values update naturally
