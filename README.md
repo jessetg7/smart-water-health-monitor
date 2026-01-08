@@ -286,22 +286,5 @@ This layered approach is commonly used in real-world health monitoring systems.
 - Explain ESP32 as a field monitoring node
 - Explain dashboard as district-level analytics
 
----
-
-## 17. Disclaimer
-
-This project is a **prototype** developed for academic and demonstration purposes. It focuses on validating system design, analytics, and early-warning workflows.
-
----
-
-## 18. Future Enhancements
-
-- Cloud integration
-- SMS alerts to ASHA workers
-- GIS-based hotspot mapping
-- Multi-node deployment
-
----
-
 **End of README**
 
